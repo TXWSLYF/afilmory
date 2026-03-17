@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:exif="https://afilmory.art/rss/exif">
+  <channel>
+    <title>Innei&#39;s Afilmory</title>
+    <link>https://afilmory.innei.in</link>
+    <description>Capturing beautiful moments in life, documenting daily warmth and emotions through my lens.</description>
+    <language>en</language>
+    <lastBuildDate>Tue, 17 Mar 2026 08:00:29 GMT</lastBuildDate>
+    <generator>Afilmory Feed Generator</generator>
+    <managingEditor>Innei (https://innei.in/)</managingEditor>
+    <exif:version>1.1</exif:version>
+    <exif:protocol>afilmory-rss-exif</exif:protocol>
+    <item>
+      <title>DSC03079</title>
+      <link>https://afilmory.innei.in/photos/DSC03079</link>
+      <guid isPermaLink="false">DSC03079</guid>
+      <pubDate>Tue, 10 Feb 2026 00:25:11 GMT</pubDate>
+      <description><![CDATA[<p><strong>EXIF:</strong> ILCE-7CM2 · 150-600mm F5-6.3 DG DN OS | Sports 021 · f/8 · 1/500s</p>]]></description>
+
+      <enclosure url="https://afilmory.innei.in/thumbnails/DSC03079.jpg" type="image/jpeg" length="0" />
+      <exif:aperture>f/8</exif:aperture>
+      <exif:shutterSpeed>1/500</exif:shutterSpeed>
+      <exif:iso>1600</exif:iso>
+      <exif:exposureCompensation>0 EV</exif:exposureCompensation>
+      <exif:focalLength>600.0mm</exif:focalLength>
+      <exif:focalLength35mm>600mm</exif:focalLength35mm>
+      <exif:lens><![CDATA[150-600mm F5-6.3 DG DN OS | Sports 021]]></exif:lens>
+      <exif:maxAperture>f/6.3</exif:maxAperture>
+      <exif:camera><![CDATA[SONY ILCE-7CM2]]></exif:camera>
+      <exif:imageWidth>3960</exif:imageWidth>
+      <exif:imageHeight>2640</exif:imageHeight>
+      <exif:dateTaken>2026-02-10T00:25:11.817Z</exif:dateTaken>
+      <exif:orientation>1</exif:orientation>
+      <exif:whiteBalance>Auto</exif:whiteBalance>
+      <exif:meteringMode>Multi-segment</exif:meteringMode>
+      <exif:flashMode>Off, Did not fire</exif:flashMode>
+      <exif:colorSpace>sRGB</exif:colorSpace>
+      <exif:exposureProgram>Manual</exif:exposureProgram>
+      <exif:sceneMode><![CDATA[Standard]]></exif:sceneMode>
+    </item>
+  </channel>
+</rss>
