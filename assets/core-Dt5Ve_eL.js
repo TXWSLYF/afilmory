@@ -1,0 +1,1 @@
+import{a as e,i as t,r as n}from"./index-BdGIRCzU.js";export{t as fileTypeFromBlob};
